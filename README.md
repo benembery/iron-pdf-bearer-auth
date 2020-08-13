@@ -1,2 +1,2 @@
-# iron-pdf-bearer-auth
+# IronPDF Bearer Authentication
 Example project for IronPDF support.
